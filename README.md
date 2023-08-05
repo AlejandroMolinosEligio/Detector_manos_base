@@ -3,5 +3,5 @@
 Programa de deteción de manos básico
 
 # Instalación:
-    - pip install opencv-python
-    - pip install mediapipe
+    pip install opencv-python
+    pip install mediapipe
